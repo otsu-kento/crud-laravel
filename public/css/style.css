@@ -1,0 +1,80 @@
+#title {
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.search-contents {
+    display: flex;
+    margin-left: 70%;
+}
+
+#form-search {
+    margin-right: 10px;
+    background-color: rgb(210, 225, 255);
+}
+
+#subsc-link {
+    text-align: right;
+    margin-right: 4.8%;
+}
+
+#members-table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 99%;
+}
+
+.member-th {
+    text-align: center;
+    border: 1px solid black;
+    background-color: rgb(153, 188, 255);
+}
+
+.member-td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+#pagenation-contents{
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-left: 45%;
+}
+
+body.create {
+    padding-top: 250px;
+}
+
+body.edit {
+    padding-top: 250px;
+}
+
+.form-contents {
+    text-align: center;
+}
+
+.form-input {
+    background-color: rgb(210, 225, 255);
+    height: 30px;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+#form-button {
+    height: 40px;
+    width: 100px;
+    font-size: 15px;
+    margin: 10px;
+}
+
+#return-link {
+    text-align: right;
+    padding-right: 20px;
+}
+
+.error-message {
+    text-align: center;
+    color: red;
+}
