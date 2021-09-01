@@ -14,7 +14,7 @@
             @csrf
             <div class="search-contents">
                 <div>
-                    <input type="search" name="q" id="form-search" placeholder="検索">
+                    <input type="search" name="q" id="form-search" placeholder="名前で検索">
                 </div>
 
                 <button type="submit">検索</button>
